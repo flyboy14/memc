@@ -3,6 +3,7 @@
 * Requirements
   * pyton 3x
   * python-memcache
+  * libmemcached-tools
 
 * Example:
 
