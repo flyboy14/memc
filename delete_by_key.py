@@ -17,5 +17,5 @@ for key in output:
 	if result:
 		mc.delete(key)
 		output.remove(key)
-		#print("Deleted %s" % i)
+		#print("Deleted %s" % key)
 #print("Output: %s" % output)
